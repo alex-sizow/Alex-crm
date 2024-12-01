@@ -13,5 +13,13 @@
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.6.1",
+    "@nuxt/typescript-build": "^3.0.2",
+    "@types/node": "^22.10.1",
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "^5.7.2",
+    "vue-tsc": "^2.1.10"
   }
 }
