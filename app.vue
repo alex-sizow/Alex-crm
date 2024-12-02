@@ -1,12 +1,7 @@
 <template>
-  <header>
-    <NuxtLink to="/">Главная</NuxtLink>
-    <NuxtLink to="/about">О нас</NuxtLink>
-    <NuxtLink to="/users">Пользователи</NuxtLink>
-    <NuxtLink to="/users/123">Пользователь 123</NuxtLink>
-  </header>
+  
 
-  <NuxtPage />
+  <NuxtLayout><NuxtPage /></NuxtLayout>
 </template>
 
 <script setup>
